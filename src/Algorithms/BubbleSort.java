@@ -24,6 +24,7 @@ public class BubbleSort {
 			
 		}
 		
+		//new line
 		
 		for(int i=0;i<intArray.length;i++)
 		{
