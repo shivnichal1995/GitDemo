@@ -7,6 +7,9 @@ public class BubbleSort {
 		
 		int[] intArray = {20,35,-15,7,35,1,-22};
 		
+		
+		public void newM(){
+		}
 	
 		for(int lastUnsortedIndex = intArray.length - 1;lastUnsortedIndex>0;
 				lastUnsortedIndex--)
